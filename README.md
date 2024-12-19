@@ -1,1 +1,1 @@
-# computer-intelligence-course-projects
+# computational-intelligence-course-projects
